@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
@@ -11,6 +12,52 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/Bulls and Cows/task" />
+            <option value="$PROJECT_DIR$/Bulls and Cows/task/build/classes/java" />
+            <option value="$PROJECT_DIR$/Bulls and Cows/task/build/generated/sources/annotationProcessor/java" />
+            <option value="$PROJECT_DIR$/Bulls and Cows/task/build/generated/sources/headers/java" />
+            <option value="$PROJECT_DIR$/Bulls and Cows/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Bulls and Cows/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Bulls and Cows/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/Exception handling/Method named process" />
+            <option value="$PROJECT_DIR$/Topics/Exception handling/Reading a file" />
+            <option value="$PROJECT_DIR$/Topics/Exception handling/String to double conversion" />
+            <option value="$PROJECT_DIR$/Topics/Exception handling/Suitable keywords" />
+            <option value="$PROJECT_DIR$/Topics/Exception handling/The order of blocks" />
+            <option value="$PROJECT_DIR$/Topics/Exception handling/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Getters and setters/Account" />
+            <option value="$PROJECT_DIR$/Topics/Getters and setters/BankAccount Balance  Getters   Setters" />
+            <option value="$PROJECT_DIR$/Topics/Getters and setters/Complex" />
+            <option value="$PROJECT_DIR$/Topics/Getters and setters/Java  Getters, Setters   Access Control" />
+            <option value="$PROJECT_DIR$/Topics/Getters and setters/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Grouping classes with packages/Binary search" />
+            <option value="$PROJECT_DIR$/Topics/Grouping classes with packages/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Inheritance/Classes for Hospital" />
+            <option value="$PROJECT_DIR$/Topics/Inheritance/Multiple names of superclasses and subclasses" />
+            <option value="$PROJECT_DIR$/Topics/Inheritance/Pet inheritance" />
+            <option value="$PROJECT_DIR$/Topics/Inheritance/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Inheritance/calculating triangle perimeter" />
+            <option value="$PROJECT_DIR$/Topics/Keyword  super/Calling parent class constructor in derived class" />
+            <option value="$PROJECT_DIR$/Topics/Keyword  super/Fix the non-compiled hierarchy" />
+            <option value="$PROJECT_DIR$/Topics/Keyword  super/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Keyword  super/When the keyword is used" />
+            <option value="$PROJECT_DIR$/Topics/Multiple constructors/Entanglement" />
+            <option value="$PROJECT_DIR$/Topics/Multiple constructors/Phone" />
+            <option value="$PROJECT_DIR$/Topics/Multiple constructors/Suppose, you have a class" />
+            <option value="$PROJECT_DIR$/Topics/Multiple constructors/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Multiple constructors/Time" />
+            <option value="$PROJECT_DIR$/Topics/Overloading/Overloading methods" />
+            <option value="$PROJECT_DIR$/Topics/Overloading/Theory" />
+            <option value="$PROJECT_DIR$/Topics/StringBuilder/Combining strings using a mutable sequence" />
+            <option value="$PROJECT_DIR$/Topics/StringBuilder/Concat all strings without digits" />
+            <option value="$PROJECT_DIR$/Topics/StringBuilder/Create an email" />
+            <option value="$PROJECT_DIR$/Topics/StringBuilder/Immutability" />
+            <option value="$PROJECT_DIR$/Topics/StringBuilder/StringBuilder methods" />
+            <option value="$PROJECT_DIR$/Topics/StringBuilder/The actual number of characters" />
+            <option value="$PROJECT_DIR$/Topics/StringBuilder/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Switch expression/Days of the week" />
+            <option value="$PROJECT_DIR$/Topics/Switch expression/Making it compile" />
+            <option value="$PROJECT_DIR$/Topics/Switch expression/Switch expression keywords" />
+            <option value="$PROJECT_DIR$/Topics/Switch expression/Theory" />
             <option value="$PROJECT_DIR$/util" />
           </set>
         </option>

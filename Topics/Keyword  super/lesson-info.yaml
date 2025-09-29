@@ -1,0 +1,7 @@
+custom_name: Keyword "super"
+content:
+  - Theory
+  - When the keyword is used
+  - Class hierarchy
+  - Calling parent class constructor in derived class
+  - Fix the non-compiled hierarchy

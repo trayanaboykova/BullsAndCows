@@ -1,0 +1,18 @@
+type: sorting
+options:
+  - catch (Exception e)
+  - try
+  - 'catch (IOException | SQLException e) '
+  - finally
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2828#comment
+status: Solved
+record: -1
+ordering:
+  - 0
+  - 1
+  - 2
+  - 3

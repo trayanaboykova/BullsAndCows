@@ -6,9 +6,9 @@ files:
   - name: test/BullsCowsTest.java
     visible: false
     learner_created: false
-feedback_link: https://hyperskill.org/projects/53/stages/287/implement#comment
+feedback_link: https://hyperskill.org/learn/step/5429#comment
 status: Solved
 feedback:
   message: Congratulations!
   time: "Mon, 25 Aug 2025 14:18:45 UTC"
-record: -1
+record: 1

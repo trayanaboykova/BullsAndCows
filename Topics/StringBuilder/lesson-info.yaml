@@ -1,0 +1,8 @@
+content:
+  - Theory
+  - Combining strings using a mutable sequence
+  - StringBuilder methods
+  - Concat all strings without digits
+  - Immutability
+  - The actual number of characters
+  - Create an email
