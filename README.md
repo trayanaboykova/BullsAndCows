@@ -37,7 +37,6 @@ The game progresses through multiple stages, gradually adding complexity:
 
 ## 🛠️ Technologies I Used
 [![Java](https://skillicons.dev/icons?i=java&theme=light)](https://www.java.com/)  
-[![IntelliJ IDEA](https://skillicons.dev/icons?i=idea&theme=light)](https://www.jetbrains.com/idea/)  
 
 ---
 
